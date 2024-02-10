@@ -19,7 +19,7 @@ Greenden is a vibrant web project aimed at fostering greenery and enhancing livi
 - Transparent pricing to facilitate informed purchasing decisions.
 
 ## Project Link:
-[GitHub repository link here]
+[Click here to see my little project](https://bucchigiri.github.io/Greenden-Tailwind/)
 
 ## Suggestions and Appreciation:
 - **Feedback Welcome:** We welcome feedback and suggestions from the community to continuously improve Greenden and make it an even more enriching experience.
